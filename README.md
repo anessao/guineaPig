@@ -32,3 +32,18 @@ function border() {
 }
 captureButton.addEventListener("click", border);
 ```
+#### HOW TO RUN CODE
+```
+1. git clone https://github.com/nss-evening-cohort-05/iife-translator-codemonkeys
+2. cd iife-translator-codemonkeys
+3. npm install http-server -g
+4. http-server -p 8080
+```
+
+#### SCREENSHOT AND COMPARISONS OF BEFORE/AFTER BUTTON CLICKS
+![before and after button clicks]()
+
+#### TECHNOLOGIES USED
+- JavaScript
+- HTML
+- CSS
