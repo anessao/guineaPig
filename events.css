@@ -1,0 +1,22 @@
+.addBlue {
+	color: blue;
+}
+.hulkify {
+	font-size: 4rem;
+}
+.addBorder {
+	border: 2px solid red;
+}
+.borderRounded {
+	border-radius: 10px;
+}
+.boldText {
+	font-weight: bolder;
+}
+.italicizeText {
+	font-style: italic;
+}
+
+.blockStyle {
+	display: block;
+}
